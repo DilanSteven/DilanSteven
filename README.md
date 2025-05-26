@@ -3,7 +3,7 @@
 </p>
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="450" alt="Shimarin" src="https://github.com/user-attachments/assets/3e74382a-0a29-4fe1-873f-c657e3ea992b"/>
 
 <h3>🌐 ¡Bienvenido a mi mundo digital creativo! 👨‍💻✨</h3>
 
