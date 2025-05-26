@@ -85,17 +85,51 @@ Soy programador titulado y amante del desarrollo web. Me apasiona crear solucion
 
 
 </section>
+<hr>
 
----
+<h3 align="center">🎧 Música que escucho</h2>
 
-## 🎧 Música que escucho
+<table align="center" style="width: 100%; max-width: 700px; background: #222; color: #eee; border-radius: 10px; padding: 20px; font-family: Arial, sans-serif;">
+  <tr>
+    <td align="center" style="width: 45%; padding: 10px;">
+      <img src="https://images.steamusercontent.com/ugc/15297536239005166/55B5D1EAE1A8A4F8818ADCF87784755F46E8EEF5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Ellie Goulding - Love Me Like You Do" style="max-width: 150px; border-radius: 10px; display: block; margin: 0 auto;">
+      <br>
+      <a href="https://open.spotify.com/intl-es/track/1zArTa4SIVhech5bHzzxeh?si=997fc74db07b4905" target="_blank" style="display: inline-block; margin: 0 auto;">
+        <img src="https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar en Spotify" />
+      </a>
+    </td>
+    <td align="center" style="width: 55%; padding: 10px;">
+      <h4 style="margin-bottom: 5px;">🎵 Ellie Goulding – <em>Love Me Like You Do</em></h4>
+      <a href="https://open.spotify.com/user/11153360645" target="_blank" style="display: block; max-width: 250px; margin: 0 auto;">
+        <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" style="width: 100%; height: auto;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Ellie Goulding - Love Me Like You Do**
+<hr>
+<table align="center" style="width: 100%; max-width: 700px; background: #222; color: #eee; border-radius: 10px; padding: 20px; font-family: Arial, sans-serif;">
+  <tr>
+    <td align="center" style="width: 33%; padding: 10px;">
+      <div style="font-size: 24px; color: #1DB954;">📍</div>
+      <strong>Dirección</strong><br>
+      Quito, Mitad del Mundo, Pichincha, Ecuador
+    </td>
+    <td align="center" style="width: 33%; padding: 10px;">
+      <div style="font-size: 24px; color: #1DB954;">📞</div>
+      <strong>Teléfonos</strong><br>
+      <a href="tel:+5930962789707" style="color:#1DB954; text-decoration:none;">+(593) 0962789707</a><br>
+    </td>
+    <td align="center" style="width: 33%; padding: 10px;">
+      <div style="font-size: 24px; color: #1DB954;">✉️</div>
+      <strong>Email</strong><br>
+      <a href="mailto:dilansoria124@gmail.com" style="color:#1DB954; text-decoration:none;">dilansoria124@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" style="font-size: 12px; color: #888; padding-top: 15px;">
+      Stevix-Dilan © 2025 Todos los derechos reservados.
+    </td>
+  </tr>
+</table>
 
-[Escuchar en Spotify](https://open.spotify.com/track/6f0uR5JexU72TbFJ4e72Mk)
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
