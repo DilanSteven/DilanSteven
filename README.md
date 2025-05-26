@@ -3,7 +3,7 @@
 </p>
 <div>
 
-<img align="right" width="450" alt="Shimarin" src="https://github.com/user-attachments/assets/3e74382a-0a29-4fe1-873f-c657e3ea992b"/>
+<img align="right" width="425" alt="Shimarin" src="https://github.com/user-attachments/assets/3e74382a-0a29-4fe1-873f-c657e3ea992b"/>
 
 <h3>🌐 ¡Bienvenido a mi mundo digital creativo! 👨‍💻✨</h3>
 
@@ -13,9 +13,7 @@
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="32px" style="vertical-align: middle; border-radius: 50%;">&nbsp;
   ¡Hola mundo! 👋 Soy <span style="color: #007acc; font-weight: bold;">Dilan Steven</span> 🚀
 </h3>
-Soy programador graduado con título de tercer nivel. Un apasionado diseñador y desarrollador web.  
-Me encanta crear soluciones simples pero impactantes, siempre con un enfoque minimalista.  
-Cada proyecto que realizo refleja mi compromiso con la creatividad y mi deseo de brindar experiencias únicas que conecten con las personas.
+Soy programador titulado y amante del desarrollo web. Me apasiona crear soluciones creativas, funcionales y minimalistas. Cada proyecto es una oportunidad para conectar con las personas a través de experiencias digitales únicas.
 
 <hr>
 
@@ -39,11 +37,11 @@ Cada proyecto que realizo refleja mi compromiso con la creatividad y mi deseo de
   <li>⭐ Actualmente trabajando en desarrollo web</li>
   <li>💻 Principalmente en repositorios privados</li>
   <li>🎓 Graduado en Desarrollo de Software</li>
-  <li>🧠 Pregúntame sobre Python, ASP.NET Framework, HTML, Java, CSS, JavaScript y React</li>
+  <li>🧠 Pregúntame sobre Python + Flask, ASP.NET Framework, HTML, Java, CSS, JavaScript y React</li>
   <li>📱 Desarrollador de aplicaciones móviles</li>
   <li>👩🏻‍💻 Actualmente trabajando con Android, Kotlin, Java, Firebase y APIs REST</li>
-  <li>👯 Buscando colaborar en proyectos Android</li>
-  <li>🤔 Buscando ayuda en AWS y Machine Learning</li>
+  <li>👯 Buscando colaborar en proyectos Android y ApLicaciones Webs</li>
+  <li>🤔 Buscando ayuda en AWS y Machine Learning, Desarrollo en Movil ( Android y IOS)</li>
 </ul>
 </div>
 <hr>
